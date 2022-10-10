@@ -1,0 +1,63 @@
+.form {
+  margin-top: 0px;
+   margin-left: 600px;
+ }
+ .title{
+   font-size: 25px;
+   font-style: italic;
+   font-weight: 900;
+   margin-left: 75px;
+   margin-top: 0px;
+   
+ }
+ .subtitle{
+   font-size: 20px;
+   font-style: italic;
+   font-weight: 600;
+ padding-left: 100px;
+ padding-top: 20px;
+ }
+ .input{
+   height: 40px;
+   width: 400px;
+   border-radius: 10px;
+   border-width: 1px;
+   margin-top: 15px;
+ }
+ 
+ .input:hover{
+ 
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: 3px solid black;
+   width: 600px;
+   
+ }
+ 
+ 
+ 
+ 
+ .submit{
+  height: 55px;
+  width: 410px;
+  margin-left: 4px;
+  border-radius: 12px;
+  text-align: center;
+  font-size: large;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 20px;
+  border-color: bisque;
+  border-width: 0px;
+  border: none;
+ }
+ .l1{
+   font-size: 20px;
+   font-style: italic;
+   font-weight: 800;
+ }
+ .card-header{
+   margin-left: 700px;
+   font-style: italic;
+ }
